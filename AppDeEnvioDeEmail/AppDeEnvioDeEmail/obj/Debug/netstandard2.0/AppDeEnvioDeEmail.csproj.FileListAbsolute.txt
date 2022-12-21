@@ -1,0 +1,14 @@
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\bin\Debug\netstandard2.0\AppDeEnvioDeEmail.deps.json
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\bin\Debug\netstandard2.0\AppDeEnvioDeEmail.dll
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\bin\Debug\netstandard2.0\ref\AppDeEnvioDeEmail.dll
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\bin\Debug\netstandard2.0\AppDeEnvioDeEmail.pdb
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\obj\Debug\netstandard2.0\AppDeEnvioDeEmail.csproj.AssemblyReference.cache
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\obj\Debug\netstandard2.0\AppDeEnvioDeEmail.AssemblyInfoInputs.cache
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\obj\Debug\netstandard2.0\AppDeEnvioDeEmail.AssemblyInfo.cs
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\obj\Debug\netstandard2.0\AppDeEnvioDeEmail.csproj.CoreCompileInputs.cache
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\obj\Debug\netstandard2.0\AppDeEnvioDeEmail.dll
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\obj\Debug\netstandard2.0\ref\AppDeEnvioDeEmail.dll
+C:\Users\Yara\source\repos\AppDeEnvioDeEmail\AppDeEnvioDeEmail\AppDeEnvioDeEmail\obj\Debug\netstandard2.0\AppDeEnvioDeEmail.pdb
